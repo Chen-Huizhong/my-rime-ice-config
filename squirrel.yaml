@@ -22,21 +22,74 @@ keyboard_layout: last
 chord_duration: 0.1  # seconds
 # options: always | never | appropriate
 show_notifications_when: appropriate
-
+show_notifications_via_notification_center: true
 
 # ascii_mode、inline、no_inline、vim_mode 等等设定
 # 可参考 /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml
 app_options:
   # com.apple.Spotlight:
   #   ascii_mode: true    # 开启默认英文
-  # com.microsoft.VSCode:
-  #   ascii_mode: false   # 关闭默认英文
+  com.microsoft.VSCode:
+    ascii_mode: true   # 开启默认英文
+  com.github.GitHubClient:
+    ascii_mode: true
+  com.microsoft.VSCode:
+    ascii_mode: true
+  com.apple.dt.Xcode:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  com.apple.finder:
+    ascii_mode: true
+  com.sublimetext.4:
+    ascii_mode: true
+  com.sublimetext.3:
+    ascii_mode: true
+  com.apple.calculator:
+    ascii_mode: true
+  com.apple.launchpad.launcher:
+    ascii_mode: true
+  com.apple.systempreferences:
+    ascii_mode: true
+  com.apple.ActivityMonitor:
+    ascii_mode: true
+  com.apple.keychainaccess:
+    ascii_mode: true
+  com.apple.Spotlight:
+    ascii_mode: true
+  com.jetbrains.intellij:
+    ascii_mode: true
+  com.jetbrains.datagrip:
+    ascii_mode: true
+  com.jetbrains.pycharm:
+    ascii_mode: true
+  io.nteract.nteract:
+    ascii_mode: true
+  com.sequelpro.SequelPro:
+    ascii_mode: true
+  io.termix.client:
+    ascii_mode: true
+  com.agilebits.onepassword7:
+    ascii_mode: true
+  com.agilebits.onepassword7-helper:
+    ascii_mode: true
+  com.kapeli.dashdoc:
+    ascii_mode: true
+  com.svend.uPic:
+    ascii_mode: true
+  com.eusoft.eudic:
+    ascii_mode: true
 
 
 style:
   # 选择皮肤，亮色与暗色主题
-  color_scheme: purity_of_form_custom
-  color_scheme_dark: purity_of_form_custom
+  # color_scheme: purity_of_form_custom
+  # color_scheme_dark: purity_of_form_custom
+  color_scheme: google
 
   # 以下是预设选项。如果皮肤没写，则使用这些属性；如果皮肤写了，使用皮肤的。
 
@@ -77,7 +130,9 @@ style:
 
   # adjust the base line of text
   #base_offset: 0
-  font_face: 'Avenir'
+  # font_face: 'Avenir'
+  font_face: PingFangSC
+  font_face: "PingFangSC-Regular,HanaMinB"
   font_point: 16
   #label_font_face: 'Avenir'
   #label_font_point: 12
