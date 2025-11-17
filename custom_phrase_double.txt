@@ -28,6 +28,11 @@ IBTrACS	ibtrac
 IBTrACS	ibtra
 IBTrACS	ibtr
 IBTrACS	ibt
+IBTrACS	IBTrACS
+IBTrACS	IBTrAC
+IBTrACS	IBTrA
+IBTrACS	IBTr
+IBTrACS	IBT
 
 位势	wwui
 位涡	wwwo
@@ -45,3 +50,21 @@ Ekman	Ekman
 Ekman	Ekma
 Ekman	Ekm
 Ekman	Ek
+
+upwelling	upwelling
+upwelling	upwellin
+upwelling	upwelli
+upwelling	upwell
+upwelling	upwel
+upwelling	upwe
+upwelling	upw
+upwelling	up
+
+downwelling	downwelling
+downwelling	downwellin
+downwelling	downwelli
+downwelling	downwell
+downwelling	downwel
+downwelling	downwe
+downwelling	downw
+downwelling	down
