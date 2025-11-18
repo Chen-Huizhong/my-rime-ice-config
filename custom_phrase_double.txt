@@ -68,3 +68,16 @@ downwelling	downwel
 downwelling	downwe
 downwelling	downw
 downwelling	down
+
+跃层	ytcg
+盐跃层	yjytcg
+温跃层	wfytcg
+密跃层	miytcg
+
+陈会众	ifhvvs
+陈会众	ifhvv
+陈会众	ifhv
+陈会众	ifh
+
+会众	hvvs
+会众	hvv
