@@ -78,6 +78,13 @@ downwelling	down
 陈会众	ifhvv
 陈会众	ifhv
 陈会众	ifh
-
 会众	hvvs
 会众	hvv
+
+气候态	qihztd
+气候态	qihzt
+
+PhD	phd
+
+辐聚	fuju
+辐散	fusj
