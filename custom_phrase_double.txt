@@ -88,3 +88,19 @@ PhD	phd
 
 辐聚	fuju
 辐散	fusj
+
+Rossby	Rossby
+Rossby	Rossb
+Rossby	Ross
+Rossby	Ros
+Rossby	rossby
+Rossby	rossb
+Rossby	ross
+Rossby	ros
+
+Argo	Argo
+Argo	Arg
+Argo	Ar
+Argo	argo
+Argo	arg
+Argo	ar
