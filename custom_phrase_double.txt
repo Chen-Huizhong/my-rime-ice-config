@@ -104,3 +104,16 @@ Argo	Ar
 Argo	argo
 Argo	arg
 Argo	ar
+
+Kuroshio	Kuroshio
+Kuroshio	Kuroshi
+Kuroshio	Kurosh
+Kuroshio	Kuros
+Kuroshio	Kuro
+Kuroshio	kuroshio
+Kuroshio	kuroshi
+Kuroshio	kurosh
+Kuroshio	kuros
+Kuroshio	kuro
+
+Gulf Stream	Gulf
