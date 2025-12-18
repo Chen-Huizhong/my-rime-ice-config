@@ -47,9 +47,9 @@ patch:
     font_face: "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Segoe UI, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
     label_font_face: "Microsoft YaHei"       # 标签字体
     comment_font_face: "Microsoft YaHei"     # 注释字体
-    font_point: 14                           # 全局字体字号
-    label_font_point: 14                     # 标签字体字号，不设定 fallback 到 font_point
-    comment_font_point: 12                   # 注释字体字号，不设定 fallback 到 font_point
+    font_point: 15                           # 全局字体字号
+    # label_font_point: 14                     # 标签字体字号，不设定 fallback 到 font_point
+    # comment_font_point: 12                   # 注释字体字号，不设定 fallback 到 font_point
 
     inline_preedit: true                     # 行内显示预编辑区：true；false
     preedit_type: composition                # 预编辑区内容：composition（编码）； preview（选中的候选）；preview_all（全部候选）
@@ -62,12 +62,12 @@ patch:
     vertical_text_with_wrap: false           # 文本竖排模式下，自动换行：true；false
     vertical_auto_reverse: false             # 文本竖排模式下，候选窗口位于光标上方时倒序排列：true；false
 
-    label_format: "%s"                       # 标签字符：例如 %s. 效果为 1. 2. 3. ....
+    label_format: "%s."                       # 标签字符：例如 %s. 效果为 1. 2. 3. ....
     mark_text: ""                            # 标记字符，显示在选中的候选标签前，需要在配色方案中指定颜色；如该项为空字符串 "" 而配色方案中 hilited_mark_color 非透明色，则显示 Windows 11 输入法风格标记
     ascii_tip_follow_cursor: false           # 切换 ASCII 模式时，提示跟随鼠标，而非输入光标
     enhanced_position: true                  # 无法定位候选框时，在窗口左上角显示候选框：true；false
     display_tray_icon: false                 # 托盘显示独立于语言栏的额外图标：true；false
-    antialias_mode: default                  # 次像素反锯齿设定：default；force_dword；cleartype；grayscale；aliased
+    antialias_mode: force_dword                  # 次像素反锯齿设定：default；force_dword；cleartype；grayscale；aliased
     candidate_abbreviate_length: 30          # 候选项略写，超过此数字则用省略号代替。设置为 0 则不启用此功能
     mouse_hover_ms: 0                        # ! 已弃用。鼠标悬停选词响应时间（ms），设置为 0 时禁用该功能
     hover_type: none                         # 鼠标在候选窗口悬停时：none（无动作）；hilite（选中鼠标下的候选）；semi_hilite（高亮鼠标下的候选）
