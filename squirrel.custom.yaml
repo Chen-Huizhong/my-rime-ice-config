@@ -119,7 +119,7 @@ patch:
     # font_face: 'Avenir'
     font_face: PingFangSC
     font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 16
+    font_point: 20
     #label_font_face: 'Avenir'
     #label_font_point: 12
     #comment_font_face: 'Avenir'
