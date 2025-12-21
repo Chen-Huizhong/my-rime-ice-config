@@ -117,3 +117,24 @@ Kuroshio	kuros
 Kuroshio	kuro
 
 Gulf Stream	Gulf
+Gulf Stream	Gul
+Gulf Stream	gulf
+Gulf Stream	gul
+
+亚中尺度	yavsiidu
+亚中尺度	yavsiid
+亚中尺度	yavsii
+亚中尺度	yavsi
+亚中尺度	yavs
+次中尺度	civsiidu
+次中尺度	civsiid
+次中尺度	civsii
+次中尺度	civsi
+次中尺度	civs
+中尺度	vsiidu
+中尺度	vsiid
+中尺度	vsii
+中尺度涡	vsiiduwo
+中尺度涡	vsiiduw
+
+锋生	fgug
