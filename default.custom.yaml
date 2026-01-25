@@ -13,6 +13,7 @@ patch:
     # - schema: double_pinyin_ziguang  # 紫光双拼
     # - schema: double_pinyin_jiajia   # 拼音加加双拼
     - schema: latex                  # Latex 输入
+    - schema: xhup                    # 小鹤音形
 
 
   # 菜单
