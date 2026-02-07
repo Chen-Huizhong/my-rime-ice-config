@@ -116,10 +116,11 @@ patch:
 
     # adjust the base line of text
     #base_offset: 0
-    font_face: 'Avenir'
-    # font_face: PingFangSC
-    # font_face: "PingFangSC-Regular,HanaMinB"
-    font_point: 16
+    font_face: "YsabeauOffice-Regular,LXGWWenKai-Medium"
+    # To install the fonts:
+    #   https://github.com/lxgw/LxgwWenKai
+    #   https://github.com/CatharsisFonts/Ysabeau
+    font_point: 20
     #label_font_face: 'Avenir'
     #label_font_point: 12
     #comment_font_face: 'Avenir'

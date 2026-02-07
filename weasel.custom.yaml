@@ -20,7 +20,7 @@ patch:
     ascii_tip_follow_cursor: false
     candidate_abbreviate_length: 30
     click_to_capture: false
-    color_scheme: google
+    color_scheme: google  # or luna
     comment_font_face: "Microsoft YaHei"
     comment_font_point: 12
     display_tray_icon: false
@@ -42,4 +42,3 @@ patch:
     vertical_text: false
     vertical_text_left_to_right: false
     vertical_text_with_wrap: false
-  "style/color_scheme": luna
