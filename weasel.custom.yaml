@@ -20,18 +20,20 @@ patch:
     ascii_tip_follow_cursor: false
     candidate_abbreviate_length: 30
     click_to_capture: false
-    color_scheme: google  # or luna
-    comment_font_face: "Microsoft YaHei"
+    color_scheme: luna  # or google
+    comment_font_face: "Ysabeau Office Regular"
     comment_font_point: 12
     display_tray_icon: false
     enhanced_position: true
-    font_face: "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Segoe UI, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+    # font_face: "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Segoe UI, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+    # 23 represents `#`, 2a represents `*`, 30:39 represent numbers
+    font_face: "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Ysabeau Office:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Ysabeau Office, LXGW WenKai GB Screen, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
     font_point: 16
     fullscreen: false
     horizontal: false
     hover_type: none
     inline_preedit: true
-    label_font_face: "Microsoft YaHei"
+    # label_font_face: "Ysabeau Office"
     label_format: "%s."
     layout: {align_type: center, baseline: 0, border_width: 2, candidate_spacing: 10, corner_radius: 8, hilite_padding: 8, hilite_spacing: 6, linespacing: 0, margin_x: 8, margin_y: 8, max_height: 600, max_width: 0, min_height: 0, min_width: 10, round_corner: 8, shadow_offset_x: 4, shadow_offset_y: 4, shadow_radius: 0, spacing: 13}
     mark_text: ""
