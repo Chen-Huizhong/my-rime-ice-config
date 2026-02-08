@@ -35,7 +35,7 @@ patch:
     inline_preedit: true
     # label_font_face: "Ysabeau Office"
     label_format: "%s."
-    layout: {align_type: center, baseline: 0, border_width: 2, candidate_spacing: 10, corner_radius: 8, hilite_padding: 8, hilite_spacing: 6, linespacing: 0, margin_x: 8, margin_y: 8, max_height: 600, max_width: 0, min_height: 0, min_width: 10, round_corner: 8, shadow_offset_x: 4, shadow_offset_y: 4, shadow_radius: 0, spacing: 13}
+    layout: {align_type: center, baseline: 0, border_width: 2, candidate_spacing: 2, corner_radius: 8, hilite_padding: 8, hilite_spacing: 4, linespacing: -2, margin_x: 2, margin_y: 2, max_height: 600, max_width: 0, min_height: 0, min_width: 10, round_corner: 8, shadow_offset_x: 4, shadow_offset_y: 4, shadow_radius: 0, spacing: 13}
     mark_text: ""
     mouse_hover_ms: 0
     paging_on_scroll: true
