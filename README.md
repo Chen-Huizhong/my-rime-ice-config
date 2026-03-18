@@ -379,3 +379,8 @@ Thanks to JetBrains for the OSS development license.
 
 <img src="./others/sponsor.webp" alt="请 Dvel 吃个煎饼馃子" width=300 />
 
+----
+
+LaTex source: [https://github.com/shenlebantongying/rime_latex](https://github.com/shenlebantongying/rime_latex)
+
+wubi source: [https://github.com/KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
